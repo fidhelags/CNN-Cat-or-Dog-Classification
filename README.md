@@ -4,6 +4,8 @@
 
 Proyek ini bertujuan untuk membangun model **Convolutional Neural Network (CNN)** untuk klasifikasi gambar kucing dan anjing. Notebook ini menggunakan TensorFlow dan Keras untuk implementasi deep learning, dengan setiap langkah dijelaskan secara detail agar mudah dipahami oleh pemula maupun praktisi machine learning.
 
+Proyek ini juga merupakan bagian dari proses pembelajaran yang saya lakukan melalui kursus di Udemy dengan materi dari BISA AI Academy berjudul “Computer Vision Untuk Pemula”.
+
 ---
 
 ## 📊 Dataset
